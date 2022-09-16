@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Course Meeting Times, Prerequisites, Course Outline, Supplementary References,
+  and Calendar.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Syllabus

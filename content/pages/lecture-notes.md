@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: SupplementalResourceSection
